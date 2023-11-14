@@ -1,0 +1,13 @@
+{
+    "name": "spbitec/file-size-twig-extension",
+    "description": "File size format filter for Twig",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "StiggerGH",
+            "email": "vshamko@gmail.com"
+        }
+    ],
+    "require": {}
+}
