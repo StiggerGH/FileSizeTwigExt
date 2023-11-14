@@ -1,5 +1,5 @@
 {
-    "name": "spbitec/file-size-twig-extension",
+    "name": "StiggerGH/file-size-twig-extension",
     "description": "File size format filter for Twig",
     "type": "library",
     "license": "MIT",
