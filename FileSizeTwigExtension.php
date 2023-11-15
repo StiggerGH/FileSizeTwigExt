@@ -1,6 +1,6 @@
 <?
 
-namespace Spbitec;
+namespace Stiggergh;
 
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFilter;
